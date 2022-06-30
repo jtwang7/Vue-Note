@@ -7,6 +7,8 @@
 ✅ [Vue3 API](https://v3.cn.vuejs.org/api/)
 
 - 🔆 [Setup](https://v3.cn.vuejs.org/guide/composition-api-setup.html#%E5%8F%82%E6%95%B0)
+
+- 🔆 [<script setup>](https://v3.cn.vuejs.org/api/sfc-script-setup.html)
   
 - 🔆 [Typescript](https://v3.cn.vuejs.org/guide/typescript-support.html#typescript-%E6%94%AF%E6%8C%81)
 
