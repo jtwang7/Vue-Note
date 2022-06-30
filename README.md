@@ -6,7 +6,7 @@
 
 ✅ [Vue3 API](https://v3.cn.vuejs.org/api/)
 
-- 🔆 [Setup](https://v3.cn.vuejs.org/guide/composition-api-setup.html#%E5%8F%82%E6%95%B0)
+- 🔆 [Setup](https://v3.cn.vuejs.org/guide/composition-api-setup.html#setup)
 
 - 🔆 [<script setup>](https://v3.cn.vuejs.org/api/sfc-script-setup.html)
   
