@@ -12,6 +12,8 @@
   
 - 🔆 [Typescript](https://v3.cn.vuejs.org/guide/typescript-support.html#typescript-%E6%94%AF%E6%8C%81)
 
+- 🔆 [动态组件](https://v3.cn.vuejs.org/guide/component-basics.html#%E5%8A%A8%E6%80%81%E7%BB%84%E4%BB%B6)
+
 ✅ [Vite](https://cn.vitejs.dev/)
 
 ## 阅读清单
