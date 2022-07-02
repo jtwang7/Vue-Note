@@ -21,3 +21,5 @@
 ✅ [vue3保姆级教程](https://juejin.cn/post/7030992475271495711)
 
 ✅ [2022年必会Vue3.0学习 (强烈建议)](https://juejin.cn/post/7057325585705467918)
+
+✅ [Vue3风格指南](https://v3.cn.vuejs.org/style-guide/#%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97) `官方推荐的书写规范`
