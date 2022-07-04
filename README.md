@@ -17,6 +17,8 @@
 - 🔆 [动态组件](https://v3.cn.vuejs.org/guide/component-basics.html#%E5%8A%A8%E6%80%81%E7%BB%84%E4%BB%B6)
 
 ✅ [Vite](https://cn.vitejs.dev/)
+
+✅ [Vuex](https://vuex.vuejs.org/zh/)
   
 ✅ [Vue Element Plus](https://element-plus.gitee.io/zh-CN/)
 
