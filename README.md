@@ -4,6 +4,8 @@
 
 ✅ [Vue3 官方文档](https://v3.cn.vuejs.org/)
 
+- 🟢 [Vue3 TypeScript 使用宝典](https://v3.cn.vuejs.org/guide/typescript-support.html#typescript-%E6%94%AF%E6%8C%81)
+
 ✅ [Vue3 API](https://v3.cn.vuejs.org/api/)
 
 - 🔆 [Setup](https://v3.cn.vuejs.org/guide/composition-api-setup.html#setup)
