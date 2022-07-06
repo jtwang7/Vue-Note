@@ -19,6 +19,8 @@
 ✅ [Vite](https://cn.vitejs.dev/)
 
 ✅ [Vuex](https://vuex.vuejs.org/zh/)
+
+✅ [Vue-Router](https://router.vuejs.org/zh/introduction.html)
   
 ✅ [Vue Element Plus](https://element-plus.gitee.io/zh-CN/)
 
